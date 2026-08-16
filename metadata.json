@@ -1,0 +1,7 @@
+{
+  "name": "Apk18pro",
+  "description": "Apk18pro - OTT Movie Streaming application with Admin Dashboard, Media Player, AdMob, and Firestore Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
